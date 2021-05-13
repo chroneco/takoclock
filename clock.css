@@ -1,0 +1,18 @@
+#clock
+{
+    position: relative;
+    width: 512px;
+}
+
+#clock img
+{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+
+#clockbody
+{
+    margin-top: 0;
+}
